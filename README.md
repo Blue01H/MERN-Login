@@ -7,6 +7,6 @@ This Project was Build with this technologies:
 2) React Router v5.1
 3) Express v4.18
 4) MongoDB
-5) Babel 7.19
-6) Webpack 5.74
-7) Material UI 4.12
+5) Babel v7.19
+6) Webpack v5.74
+7) Material UI v4.12
